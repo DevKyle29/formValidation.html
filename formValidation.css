@@ -1,0 +1,40 @@
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+label{
+    width: 240px;
+    display: inline-block;
+    text-align: right;
+}
+
+input {
+    padding: 2px;
+    font-size: 14px;
+    border-radius: 2px;
+}
+
+input[type="checkbox"],input[type="radio"] {
+    height: 16px;
+    width: 16px;
+    margin-left: 32px;
+
+}
+
+textarea {
+    padding: 6px;
+    font-size: 14px;
+}
+.div1 label{
+ text-align: left;
+}
+
+
+
+
+
+
+
+
