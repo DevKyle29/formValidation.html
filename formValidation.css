@@ -1,6 +1,8 @@
 h1{
-    display: flex;
-    justify-content: center;
+     text-align: left;
+     text-indent: 180px;
+     
+    
     
 }
 
@@ -10,26 +12,69 @@ label{
     text-align: right;
 }
 
-input {
-    padding: 2px;
-    font-size: 14px;
-    border-radius: 2px;
-}
-
-input[type="checkbox"],input[type="radio"] {
-    height: 16px;
-    width: 16px;
-    margin-left: 32px;
-
-}
-
 textarea {
     padding: 6px;
     font-size: 14px;
 }
-.div1 label{
- text-align: left;
+
+button{
+    position: relative;
+    left: 300px;
+    margin: 1rem;
+    background-color: rgb(14, 14, 239);
+
 }
+
+.inputcheck{
+
+    margin-top: -1rem;
+    position: relative;
+    left: 70px;
+}
+
+.inputcheck2{
+    margin-top: -1.2rem;
+    position: relative;
+    left: 180px;
+
+}
+
+.inputradio{                                                                                
+    margin-top: -1rem;
+    position: relative;
+    right: -50px;
+}
+
+.inputradio2{
+
+    margin-top: -1.2rem;
+    position: relative;
+    left: 320px;
+
+}
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
 
 
 
